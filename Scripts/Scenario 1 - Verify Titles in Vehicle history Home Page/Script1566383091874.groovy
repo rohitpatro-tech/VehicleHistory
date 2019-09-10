@@ -26,7 +26,7 @@ WebUI.openBrowser('https://www.vehicleHistory.com')
 
 WebUI.maximizeWindow()
 
-WebUI.waitForPageLoad(45)
+WebUI.waitForPageLoad(44)
 
 WebDriver driver = DriverFactory.getWebDriver()
 
