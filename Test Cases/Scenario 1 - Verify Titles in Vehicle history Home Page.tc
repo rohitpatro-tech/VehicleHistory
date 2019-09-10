@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Scenario 1 - Verify Titles in Vehicle history Home Page</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0001ac39-0f09-4bbf-a604-7ec143e3b304</testCaseGuid>
+</TestCaseEntity>

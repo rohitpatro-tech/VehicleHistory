@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Scenario 3 - Enter VIN and Verify details displayed</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>eb442420-46fc-4902-b2d0-5b7397cf5c04</testCaseGuid>
+</TestCaseEntity>
